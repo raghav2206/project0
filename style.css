@@ -31,11 +31,11 @@ a::before {
 }
 @media (min-width:500px) {
           h1::before{
-                content: "WELCOME TO MY WEBPAGE"
+                content: "WELCOME TO MY WEBPAGE";
           }
 }
 @media (max-width:499px) {
         h1::before{
-          content: "WELCOME"
+          content: "WELCOME";
         }
 }
